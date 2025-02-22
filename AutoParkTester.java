@@ -1,9 +1,3 @@
-/*
-My Name: Mohammadreza Mougouei
-ID#101330696
-COMP1006E
- */
-
 public class AutoParkTester {
     public static void main(String[] args) {
         AutoPark park = new AutoPark("Revv-tastic Auto Oasis");
